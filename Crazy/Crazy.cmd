@@ -1,6 +1,6 @@
 
 if not exist bin\ (
-  dotnet build >nul
+  dotnet build
 )
 dotnet run --no-build >nul
 
