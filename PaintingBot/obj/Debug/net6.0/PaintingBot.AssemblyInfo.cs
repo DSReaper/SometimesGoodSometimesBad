@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaintingBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03b6e7b7ea33ab57f1db4aedf52638355525be72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ad86448ae9e6efc5c09b4b3a057748f01ce9c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaintingBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaintingBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
