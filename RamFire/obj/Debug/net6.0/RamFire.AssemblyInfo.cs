@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RamFire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ad86448ae9e6efc5c09b4b3a057748f01ce9c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ca6a320021f06398b41d25354bac332bae4a497")]
 [assembly: System.Reflection.AssemblyProductAttribute("RamFire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RamFire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
